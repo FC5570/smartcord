@@ -1,0 +1,30 @@
+{
+  "name": "smartcord",
+  "version": "1.0.0",
+  "description": "A chatbot, basically a wrapper for https://api.affiliateplus.xyz",
+  "main": "index.js",
+  "dependencies": {
+    "phin": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC5570/smartcord.git"
+  },
+  "keywords": [
+    "js",
+    "chatbot",
+    "discord",
+    "discord.js",
+    "chatbot.js"
+  ],
+  "author": "FC5570",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FC5570/smartcord/issues"
+  },
+  "homepage": "https://github.com/FC5570/smartcord#readme"
+}
